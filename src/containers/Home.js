@@ -11,7 +11,7 @@ class Home extends Component {
         </CenteredHeader>
         <p>
         <strong>Currently working on side projects. In my spare time, I enjoy learning new things 📚, building personal-projects 🔨, 
-        doing photography 🥊, contributing to Open Source 🖥️ , and watching horror 🎞️. </strong>
+        doing photography 📸, contributing to Open Source 🖥️ , and watching horror 🎞️. </strong> 
         
         </p>
       </div>
