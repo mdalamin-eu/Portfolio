@@ -7,7 +7,7 @@ class Home extends Component {
     return (
       <div>
         <CenteredHeader>
-          Hey👋! I'm Md alamin a javaScript developer based in Helisinki.
+          Hey👋! I'm Md Alamin a javaScript developer based in Helisinki.
         </CenteredHeader>
         <p>
         <strong>Currently working on side projects. In my spare time, I enjoy learning new things 📚, building personal-projects 🔨, 
