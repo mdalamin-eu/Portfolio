@@ -131,14 +131,14 @@ class Writing extends Component {
               </PortButtonContainer>
             </PortTitleContainer>
             <PortDescription>
-            DevCOnnect is a developer  platform where developer throught out the world connect with each other and share their soluations and believes and become friend with each other,it also lets you connect with your senior or junior developer 
+            DeveloperMeet is a platform where around the world developers can interact with each other.  For example, they can post, like, comment and they can also build their professional profiles. 
           </PortDescription>
             <UsedList>
               <UsedItem>Node Js</UsedItem>
               <UsedItem>React</UsedItem>
               <UsedItem>Redux</UsedItem>
               <UsedItem>Exprees JS</UsedItem>
-              <UsedItem>Mlab</UsedItem>
+              <UsedItem>MongoDB</UsedItem>
             </UsedList>
           </PortAllText>
         </PortRow>
@@ -198,7 +198,7 @@ class Writing extends Component {
                   Demo
               </PortButton>
                 <PortButton
-                  href="https://github.com/streetracer48/playing-with-materialize-css"
+                  href="https://github.com/mdalamin-eu/Robo"
                   target="_blank"
                 >
                   Code
