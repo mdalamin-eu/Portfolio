@@ -173,7 +173,7 @@ class Writing extends Component {
             this is simple material-ui Travel agency front-end  application
           </PortDescription>
             <UsedList>
-              <UsedItem>Material-UI</UsedItem>
+              <UsedItem>React.js</UsedItem>
               <UsedItem>HTML</UsedItem>
               <UsedItem>CSS</UsedItem>
             </UsedList>
@@ -206,10 +206,12 @@ class Writing extends Component {
               </PortButtonContainer>
             </PortTitleContainer>
             <PortDescription>
-            this is simple material-ui Travel agency front-end  application
+            this is simple interactive robot searchEngine used React js AND hashrobot
           </PortDescription>
             <UsedList>
-              <UsedItem>Material-UI</UsedItem>
+              <UsedItem>React.js</UsedItem>
+              <UsedItem>Docker</UsedItem>
+              <UsedItem>Tarvis CI</UsedItem>
               <UsedItem>HTML</UsedItem>
               <UsedItem>CSS</UsedItem>
             </UsedList>
