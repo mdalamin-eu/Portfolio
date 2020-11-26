@@ -43,6 +43,7 @@ class Code extends Component {
                 <li>JavaScript (ES6)(ES7)</li>
                 <li>React</li>
                 <li>Redux</li>
+                <li>Typescript</li>
                 <li>HTML5</li>
                 <li>CSS3</li>
                 <li>Bootstrap 4</li>
