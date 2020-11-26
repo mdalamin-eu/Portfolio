@@ -155,14 +155,14 @@ class Writing extends Component {
               <PortTitle>travel application</PortTitle>
               <PortButtonContainer>
                 <PortButton
-                  href="https://streetracer48.github.io/playing-with-materialize-css/"
+                  href="https://github.com/mdalamin-eu/Prototype/blob/master/README.md"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   Demo
               </PortButton>
                 <PortButton
-                  href="https://github.com/streetracer48/playing-with-materialize-css"
+                  href="https://github.com/mdalamin-eu/Prototype"
                   target="_blank"
                 >
                   Code
