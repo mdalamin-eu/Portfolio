@@ -188,10 +188,10 @@ class Writing extends Component {
           </a>
           <PortAllText>
             <PortTitleContainer>
-              <PortTitle>travel application</PortTitle>
+              <PortTitle>RoboFriend</PortTitle>
               <PortButtonContainer>
                 <PortButton
-                  href="https://github.com/mdalamin-eu/Robo"
+                  href="https://github.com/mdalamin-eu/Robo/blob/master/README.md"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
