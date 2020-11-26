@@ -121,6 +121,13 @@ class Writing extends Component {
             <PortTitleContainer>
               <PortTitle>Connect With Dev</PortTitle>
               <PortButtonContainer>
+              <PortButton
+                  href="https://github.com/mdalamin-eu/developer-meet/blob/master/README.md"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Demo
+              </PortButton>
                 <PortButton
                   href="https://github.com/mdalamin-eu/developer-meet"
                   target="_blank"
@@ -139,6 +146,8 @@ class Writing extends Component {
               <UsedItem>Redux</UsedItem>
               <UsedItem>Exprees JS</UsedItem>
               <UsedItem>MongoDB</UsedItem>
+              <UsedItem>HTML</UsedItem>
+              <UsedItem>CSS</UsedItem>
             </UsedList>
           </PortAllText>
         </PortRow>
