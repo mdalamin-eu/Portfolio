@@ -2,7 +2,7 @@
   "name": "reactportfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "",
+  "homepage": "https://github.com/mdalamin-eu/Portfolio",
   "dependencies": {
     "bootstrap": "^3.4.1",
     "react": "^15.6.1",

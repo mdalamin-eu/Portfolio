@@ -161,7 +161,7 @@ class Writing extends Component {
           </a>
           <PortAllText>
             <PortTitleContainer>
-              <PortTitle>travel application</PortTitle>
+              <PortTitle>Breed application</PortTitle>
               <PortButtonContainer>
                 <PortButton
                   href="https://github.com/mdalamin-eu/Prototype/blob/master/README.md"
@@ -179,7 +179,7 @@ class Writing extends Component {
               </PortButtonContainer>
             </PortTitleContainer>
             <PortDescription>
-            this is simple material-ui Travel agency front-end  application
+            This is simple react front-end application
           </PortDescription>
             <UsedList>
               <UsedItem>React.js</UsedItem>
