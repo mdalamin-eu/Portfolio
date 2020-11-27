@@ -29,7 +29,7 @@ class Life extends Component {
     return (
       <div>
         <div>
-          <CenteredHeader>I like to trvales, regardless of photography. Here are some of my  life </CenteredHeader>
+          <CenteredHeader>I like to trvales, regardless of photography. Here are some of my life </CenteredHeader>
         </div>
         {/*Row 1*/}
         <LifeRow className="row">
