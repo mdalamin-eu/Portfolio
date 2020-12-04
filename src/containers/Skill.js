@@ -76,6 +76,7 @@ class Code extends Component {
               <ul>
               <li>C</li>
               <li>Git</li>
+              <li>SQL</li>
                 <li>JSON</li>
                 <li>Rest API</li>
                 
